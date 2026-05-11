@@ -93,19 +93,4 @@ pip install -r requirements.txt
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ```
-
----
-
-### **How to add this to your GitHub:**
-
-1.  **On GitHub:** Go to your repository and click **"Add file"** > **"Create new file"**.
-2.  **Name the file:** Type `README.md`.
-3.  **Paste:** Paste all the text from the box above.
-4.  **Edit:** Make sure to replace the placeholder text (like `[X]%` or the URL) with your actual project details.
-5.  **Save:** Scroll down and click **"Commit changes"**.
-
-### **Don't forget the Repository Description!**
-Paste this into the **About** section (the gear icon on the right side of the main page):
-> *"A production-ready machine learning web application built with Python to predict cardiovascular disease risk. Features a robust classification backend deployed on Hugging Face Spaces."*
-
 ```
