@@ -7,7 +7,7 @@
 An end-to-end Machine Learning web application designed to predict the likelihood of cardiovascular disease based on clinical features. This project demonstrates a full ML pipeline—from data preprocessing and model training to cloud deployment.
 
 ## 🔗 Live Demo
-Check out the live application here: **[INSERT YOUR HUGGING FACE URL HERE]**
+Check out the live application here: **https://huggingface.co/spaces/manii07/cardio-risk-predictor**
 
 ---
 
